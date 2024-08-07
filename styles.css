@@ -34,7 +34,7 @@ div h1{
     font-weight: 400;
 }
 div p{
-    font-size: 30px;
+    font-size: 20px;
 }
 section div.container2{
     display: flex;
@@ -88,8 +88,8 @@ p.text{
     font-size: 20px;
     }
 div.date{
-    font-size: 12px;
-    font-weight: 200;
-    margin-top: 70px;
+    font-size: 7px;
+    font-weight: 100;
+    margin-top: 40px;
 }
  
