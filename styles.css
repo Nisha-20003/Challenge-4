@@ -69,6 +69,7 @@ img.image{
     width: 200px;
     border-radius: 17px;
     margin-bottom: 40px;
+    object-fit: cover;
 }
 a{
     text-decoration: none;
